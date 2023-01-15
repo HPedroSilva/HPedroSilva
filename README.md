@@ -47,7 +47,7 @@ Hoje, recém graduado em Engenharia de Sistemas, sou também técnico em inform�
   <a title="Meu LinkedIn" href="httdivs://www.linkedin.com/in/pedrosilvaengsist/" >
     <img height="20" width="20" src="https://cdn.simpleicons.org/linkedin/ffffff" />
   </a>
-  <a title="Meu Instagram" href="https://www.linkedin.com/in/pedrosilvaengsist/" >
+  <a title="Meu Instagram" href="https://www.instagram.com/pedrohs_21/" >
     <img height="20" width="50" src="https://cdn.simpleicons.org/instagram/ffffff" />
   <a title="Meu e-mail" href="mailto:pedrohs21@outlook.com" >
     <img height="20" width="20" src="https://cdn.simpleicons.org/microsoftoutlook/ffffff" />
