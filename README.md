@@ -10,8 +10,6 @@ Hoje, recém graduado em Engenharia de Sistemas, sou também técnico em inform�
   <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrohs21&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique's Github Top Langs" /> 
 </div> -->
 
----
-
 <h2 align="center" style="margin: 1em"> Tecnologias que Utilizo </h2>
 
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
@@ -32,8 +30,6 @@ Hoje, recém graduado em Engenharia de Sistemas, sou também técnico em inform�
 &nbsp;
 ![bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
----
-
 <h2 align="center" style="margin: 1em"> Tecnologias que Estou Estudando </h2>
 
 ![mongodb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
@@ -45,8 +41,6 @@ Hoje, recém graduado em Engenharia de Sistemas, sou também técnico em inform�
 ![docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)
 &nbsp;
 ![kubernetes](https://img.shields.io/badge/-kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)
-
----
 
 <h2 align="center" style="margin: 1em"> Meus  Contatos </h2>
 <div align="center">
