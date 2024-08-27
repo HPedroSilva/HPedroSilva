@@ -10,13 +10,13 @@ Passionate about web development and exploring technologies to create innovative
 
 <div align="center">
   <a title="LinkedIn" href="https://www.linkedin.com/in/hpedrosilva/" >
-    <img height="30" width="30" src="https://cdn.simpleicons.org/linkedin/ffffff" />
+    <img height="27" width="27" src="https://cdn.simpleicons.org/linkedin/ffffff" />
   </a>
   <a title="Instagram" href="https://www.instagram.com/pedrohs_21/" >
-    <img height="29" width="71" src="https://cdn.simpleicons.org/instagram/ffffff" />
+    <img height="26" width="63" src="https://cdn.simpleicons.org/instagram/ffffff" />
   </a>
   <a title="E-mail" href="mailto:pedrohs21@outlook.com" >
-    <img height="33" width="33" src="https://cdn.simpleicons.org/gmail/ffffff" />
+    <img height="30" width="30" src="https://cdn.simpleicons.org/gmail/ffffff" />
   </a>
 </div>
 
@@ -34,6 +34,10 @@ Passionate about web development and exploring technologies to create innovative
   ![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)
   &nbsp;
   ![javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
+  &nbsp;
+  ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
+  &nbsp;
+  ![CSS3](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)
   &nbsp;
   ![jquery](https://img.shields.io/badge/-jquery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)
   &nbsp;
