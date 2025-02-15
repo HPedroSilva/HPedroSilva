@@ -1,6 +1,6 @@
 # Pedro Henrique
 
-*Systems Engineer | Full Stack Developer | Validation Analyst*
+*Systems Engineer | Full Stack Developer*
 
 Passionate about web development and exploring technologies to create innovative solutions. I have experience in JavaScript, Python, Django, and PostgreSQL, and I am always looking to enhance my skills. Currently, I am expanding my knowledge in tools and methodologies such as Node.js, React, Docker, Kubernetes, CI/CD, among others.
 
